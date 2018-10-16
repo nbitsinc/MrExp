@@ -1,0 +1,21 @@
+{
+  "name": "mr-explosive",
+  "version": "0.0.0",
+  "description": "MrExplosive",
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  },
+  "author": "nagaraju.basavaraju",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "request-promise": "^4.2.2"
+  },
+  "main": "server.js",
+  "devDependencies": {},
+  "license": "ISC"
+}

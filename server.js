@@ -27,5 +27,5 @@ app.get('/', function (req, res) {
    
 });
 app.listen('8080');
-console.log('API is running on http://localhost:8080, home sweet home');
+console.log('API is running on http://localhost:8080, home sweet home, take me home');
 module.exports = app;
